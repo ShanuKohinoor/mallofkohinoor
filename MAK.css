@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+.bank-gothic {
+  font-family: 'Orbitron', 'Arial Black', Arial, sans-serif;
+  font-weight: 700;
+  color: green; /* your green color */
+}
